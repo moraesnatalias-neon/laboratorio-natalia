@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "nome": "dark",
+    "sobre": "very good",
+    "nota": "9"
+  },
+  {
+    "id": "2",
+    "nome": "breaking bad",
+    "sobre": "a melhor serie do mundo",
+    "nota": "10"
+  },
+  {
+    "id": "3",
+    "nome": "manifest",
+    "sobre": "very good",
+    "nota": "9"
+  },
+  {
+    "id": "1",
+    "nome": "dark",
+    "sobre": "very good",
+    "nota": "9"
+  },
+  {
+    "id": "5",
+    "nome": "SerieTest",
+    "sobre": "very good",
+    "nota": "10"
+  },
+  {
+    "id": "5",
+    "nome": "SerieTest",
+    "sobre": "very good",
+    "nota": "10"
+  },
+  {
+    "id": "5",
+    "nome": "SerieTest",
+    "sobre": "very good",
+    "nota": "10"
+  },
+  {
+    "id": "10",
+    "nome": "SerieTest",
+    "sobre": "very good",
+    "nota": "10"
+  },
+  {
+    "id": "10",
+    "nome": "SerieTest",
+    "sobre": "very good",
+    "nota": "10"
+  },
+  {
+    "id": "10",
+    "nome": "SerieTest",
+    "sobre": "very good",
+    "nota": "10"
+  }
+]
